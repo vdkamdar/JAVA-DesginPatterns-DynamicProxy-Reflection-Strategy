@@ -38,6 +38,8 @@ getElement:O(1); Search:O(n) under normal circumstances
 
 Vector for storing serializable and deserializable objects since it is synchronized
 ArrayList is not fixed size, hence we can modify it more frequently when needed.Storing results needs constant change in size of the list according to the test cases.Even if we set an initial size, we can still modify the size
+
 Big O Time complexity:O(n) under normal circumstances
+
 -----------------------------------------------------------------------
 
